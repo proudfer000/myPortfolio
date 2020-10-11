@@ -16,19 +16,26 @@ body {
     }
 }
 
-section {
+{
     
 }
  
 
 h1 {
     color:white;
-    width: 679px;
     font-size: 32pt;
     line-height: 36pt;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     -webkit-font-smoothing: antialiased;
+    text-align:center;
+     
+}
+#mynme {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+   
 }
 .color-myname {
     color: black
